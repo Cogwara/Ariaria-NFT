@@ -19,6 +19,7 @@
 .DS_Store
 *.pem
 .secret
+.gitignore
 
 # debug
 npm-debug.log*
