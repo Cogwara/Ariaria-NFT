@@ -1,5 +1,5 @@
-const { expect } = require("chai");
-const { ethers } = require("hardhat");
+import { expect } from "chai";
+import { ethers } from "hardhat";
 
 describe("AriariaMarket", function () {
   it("Should create and enable sales of NFT", async function () {
